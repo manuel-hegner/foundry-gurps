@@ -1,0 +1,22 @@
+{
+  "name": "gurps",
+  "title": "GURPS",
+  "description": "A minimalist GURPS system.",
+  "version": 0.01,
+  "minimumCoreVersion": "0.5.5",
+  "compatibleCoreVersion": "0.5.5",
+  "templateVersion": 2,
+  "author": "manuel-hegner",
+  "esmodules": ["module/simple.js"],
+  "styles": ["styles/simple.css"],
+  "packs": [],
+  "languages": [],
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "health",
+  "secondaryTokenAttribute": "power",
+  "url": "https://gitlab.com/foundrynet/worldbuilding/",
+  "manifest": "https://gitlab.com/foundrynet/worldbuilding/raw/master/system.json",
+  "download": "https://gitlab.com/foundrynet/worldbuilding/-/archive/release-035/worldbuilding-release-035.zip",
+  "license": "LICENSE.txt"
+}
